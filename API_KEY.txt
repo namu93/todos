@@ -1,0 +1,5 @@
+ㅁ Project URL :
+https://bbdrsqlsatqnwlireoqx.supabase.co
+
+ㅁ anon public : 
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImJiZHJzcWxzYXRxbndsaXJlb3F4Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzA0MTIyNjIsImV4cCI6MjA4NTk4ODI2Mn0.6Os7EgvFRgls89JNSu8rmDE1DtYhxMAJIrLqBBANrp8
