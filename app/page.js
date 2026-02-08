@@ -46,7 +46,7 @@ export default function Home() {
   return (
     <div className="min-h-screen bg-gray-100 py-8">
       <div className="max-w-2xl mx-auto bg-white rounded-lg shadow-md p-6">
-        <h1 className="text-3xl font-bold mb-6 text-gray-800">My Todo List</h1>
+        <h1 className="text-3xl font-bold mb-6 text-gray-800">My Todo List!</h1>
         
         {/* 할일 추가 입력창 */}
         <div className="flex gap-2 mb-6">
